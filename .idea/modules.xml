@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NP.RTMP-Push-Client-Android.iml" filepath="$PROJECT_DIR$/NP.RTMP-Push-Client-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NPLive-Push-Client.iml" filepath="$PROJECT_DIR$/NPLive-Push-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NPLivePushClient/NPLivePushClient.iml" filepath="$PROJECT_DIR$/NPLivePushClient/NPLivePushClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liveRtmpPushSDK/liveRtmpPushSDK.iml" filepath="$PROJECT_DIR$/liveRtmpPushSDK/liveRtmpPushSDK.iml" />
+    </modules>
+  </component>
+</project>
