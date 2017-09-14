@@ -58,7 +58,7 @@ public class MainActivity extends Activity {
 	private final String LOG_TAG = "MainActivity";
 	private final boolean DEBUG_ENABLE = false;
 
-	private String _rtmpUrl = "rtmp://send.livestream.bitnp.net:1935/nplive/livestream";
+	private String _rtmpUrl = "rtmp://send.xxxxxx.com:1935/livestream";
 	private String _CameraChoosed = null;
 
 	PowerManager.WakeLock _wakeLock;

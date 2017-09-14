@@ -44,8 +44,8 @@ public class StartActivity extends Activity {
         _rtmpStreamText = (EditText)findViewById(R.id.rtmpStreamText);
         _startRtmpPushButton = (Button)findViewById(R.id.startRtmpButton);
 
-        _rtmpUrlEditText.setText("rtmp://send.livestream.bitnp.net:1935/nplive");
-        _rtmpStreamText.setText("livestream");
+        _rtmpUrlEditText.setText("rtmp://send.xxxxxx.com:1935/send");
+        _rtmpStreamText.setText("xxxlivestream");
 
         _startRtmpPushButton.setOnClickListener(_startRtmpPushOnClickedEvent);
     }
